@@ -1,0 +1,10 @@
+VALUE0	# Basics | Total Households, 2017
+VALUE1	# Basics | Total Population, 2017
+VALUE2	% Household Population 25 to 64 Years by Educational Attainment | Household Population 25 To 64 Years | No Certificate, Diploma Or Degree, 2017
+VALUE3	% Household Population 25 to 64 Years by Educational Attainment | Household Population 25 To 64 Years | University Certificate, Diploma Or Degree At Bachelor Level Or Above, 2017
+VALUE4	% Households by Income (Current Year) | Total Households | Household Income $100,000 Or Over (Current Year $), 2017
+VALUE5	Households by Income (Current Year) | Median Household Income (Current Year $), 2017
+VALUE6	% Household Population by Mother Tongue | Household Population For Mother Tongue | Total Single Response | English, 2017
+VALUE7	% Household Population by Mother Tongue | Household Population For Mother Tongue | Total Single Response | French, 2017
+VALUE8	% Occupied Private Dwellings by Period of Construction | Total Households For Period Of Construction | Built After 2011, 2017
+VALUE9	% Occupied Private Dwellings by Period of Construction | Total Households For Period Of Construction | Built Before 1961, 2017
